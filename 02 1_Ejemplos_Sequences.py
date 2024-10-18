@@ -39,7 +39,7 @@ print(hash("texto")) # Ejemplo con una cadena de texto
 ## hash: 8910540936665217732
 
 pet_info = { 'Name': 'Charlie', 
-             'Species': 'Dog'}
+             'Species': 'Perro'}
 print(pet_info.get(0))
 
 
